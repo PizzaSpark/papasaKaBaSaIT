@@ -1,0 +1,11 @@
+D:\Sean's PC\Documents\Code Projects\C#\buttonByeBye\bin\Debug\buttonByeBye.exe.config
+D:\Sean's PC\Documents\Code Projects\C#\buttonByeBye\bin\Debug\buttonByeBye.exe
+D:\Sean's PC\Documents\Code Projects\C#\buttonByeBye\bin\Debug\buttonByeBye.pdb
+D:\Sean's PC\Documents\Code Projects\C#\buttonByeBye\obj\Debug\buttonByeBye.csproj.AssemblyReference.cache
+D:\Sean's PC\Documents\Code Projects\C#\buttonByeBye\obj\Debug\buttonByeBye.csproj.SuggestedBindingRedirects.cache
+D:\Sean's PC\Documents\Code Projects\C#\buttonByeBye\obj\Debug\buttonByeBye.Form1.resources
+D:\Sean's PC\Documents\Code Projects\C#\buttonByeBye\obj\Debug\buttonByeBye.Properties.Resources.resources
+D:\Sean's PC\Documents\Code Projects\C#\buttonByeBye\obj\Debug\buttonByeBye.csproj.GenerateResource.cache
+D:\Sean's PC\Documents\Code Projects\C#\buttonByeBye\obj\Debug\buttonByeBye.csproj.CoreCompileInputs.cache
+D:\Sean's PC\Documents\Code Projects\C#\buttonByeBye\obj\Debug\buttonByeBye.exe
+D:\Sean's PC\Documents\Code Projects\C#\buttonByeBye\obj\Debug\buttonByeBye.pdb
